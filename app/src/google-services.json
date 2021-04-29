@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782749040307",
+    "project_id": "splitbun",
+    "storage_bucket": "splitbun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782749040307:android:adac23c16a5c1481897ac6",
+        "android_client_info": {
+          "package_name": "com.example.splitbun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782749040307-ecumm1cceekng25u8qqbcfivtv7a4p9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLBeEWKZS5y2yRLdMBQX-snTSl0E66a3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782749040307-ecumm1cceekng25u8qqbcfivtv7a4p9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
